@@ -1,4 +1,4 @@
-<h3 align="center">Hacks are back!</h3>
+<h3 align="center">Forked by SoyokoAnis!</h3>
 
 <hr>
 
